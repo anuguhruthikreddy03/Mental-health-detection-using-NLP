@@ -1,0 +1,34 @@
+# Virtual Environment
+venv/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Streamlit
+.streamlit/
+
+# Models
+bert_model/
+*.safetensors
+*.bin
+*.pt
+*.pth
+
+# FastText
+*.kv
+*.npy
+
+# Dataset
+*.csv
+*.xlsx
+*.zip
+
+# Logs
+*.log
+
+# Environment Variables
+.env
